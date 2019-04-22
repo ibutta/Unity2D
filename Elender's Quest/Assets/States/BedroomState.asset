@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8be9ab89aeb109245af89371f9f5a707, type: 3}
+  m_Name: BedroomState
+  m_EditorClassIdentifier: 
+  storyText: 'Bedroom
+
+
+    1 - Go to Backyard
+
+    2 - Go to Town Centre'
+  gameStates:
+  - {fileID: 11400000, guid: 74ae8b57e7e19d54b93731a792e8b50b, type: 2}
+  - {fileID: 11400000, guid: a3ba67e4b7ef83440b6b8944644fa739, type: 2}
