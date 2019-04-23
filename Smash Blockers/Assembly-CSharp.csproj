@@ -60,9 +60,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\BallControl.cs" />
+    <Compile Include="Assets\Scripts\Ball.cs" />
+    <Compile Include="Assets\Scripts\Block.cs" />
     <Compile Include="Assets\Scripts\LoseTrigger.cs" />
-    <Compile Include="Assets\Scripts\PaddleControl.cs" />
+    <Compile Include="Assets\Scripts\Paddle.cs" />
     <Compile Include="Assets\Scripts\SceneLoader.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
