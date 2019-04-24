@@ -14,7 +14,7 @@ A simple and straightfoward game that asks you to pick a number between 1 and 10
 
 ### >Smash Blockers
 
-A Arkanoid-like game with a ball, a paddle and some blocks to be smashed. And yes, it is a wordplay with Smash Bros.
+A Arkanoid-like game with a ball, a paddle and some blocks to be smashed. And yes, it is a wordplay on "Smash Bros".
 
 **Status:** Under development. Currently active.
 
